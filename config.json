@@ -5,14 +5,14 @@
 	},
 
 	"server":{
-		"address":"127.0.0.1",
+		"address":"ReteauaGamerilor.aternos.me",
 		"port":25565
 	},
 
 	"keyword":{
 		"name" :
 		[
-			"Steve"
+			"AlwaysOnline"
 		],
 
 		"sleep" :
@@ -20,12 +20,18 @@
 			"sleep",
 			"Sleep"
 		]
+		"server" :
+		[
+			"server",
+			"Server"
+		]
 	},
 
 	"message":{
 		"online":"Hello I'm a bot, tell me to sleep and I'll reconnect so you can sleep.",
-		"afk":"This is my bot, I'm not there I'll be back later.",
+		"afk":".",
 		"sleep":"Alright, I'll be back !",
-		"greeting":"Hey, I'm a bot just tell me to sleep and I'll reconnect to let you pass the day."
+		"greeting":"Hey, I'm a bot just tell me to sleep and I'll reconnect to let you pass the day.",
+		"server":"Serverul de discord: https://discord.reteauagamerilor.ga/"
 	}
 }
