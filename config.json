@@ -1,6 +1,6 @@
 {
-	"ip":"example.aternos.ip",
-	"port": "25565",
-	"name": "afkbot1",
-	"auto-night-skip":"true"
+	"ip":"ReteauaGamerilor.aternos.me",
+	"port": "62359",
+	"name": "AfkBot",
+	"auto-night-skip":"false"
 }
